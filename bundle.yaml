@@ -2,7 +2,6 @@ apiVersion: "1"
 version: "4"
 id: "cbci-casc-workshop-ops-controller"
 description: "CloudBees CI configuration bundle for the cbci-casc-workshop ops-controller Controllers"
-parent: "base"
 jcasc:
   - "jcasc/credentials.yaml"
   - "jcasc/jenkins.yaml"
